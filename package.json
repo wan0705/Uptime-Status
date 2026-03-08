@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "url": "https://wanblog.qzz.io",
+  "email": "wan0705007@qq.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/JLinmr/Uptime-Status"
@@ -30,7 +30,7 @@
     "@vitejs/plugin-vue": "^5.0.3",
     "autoprefixer": "^10.4.20",
     "cors": "^2.8.5",
-    "express": "^4.21.2",
+    "express": "^4.21.2"
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
     "vite": "^6.0.5"
